@@ -37,7 +37,17 @@
 
     streamlit run Dashboard.py
 
-# EXAMPLE ( DASHBOARD Pro ) . . . Preview . 
+# EXAMPLE ( DASHBOARD Pro )
+
+<img width="1280" height="1024" alt="Screenshot_2025-10-29_18-32-12" src="https://github.com/user-attachments/assets/2b65576b-96ee-4378-a64e-661201527f01" />
+<img width="1280" height="1024" alt="Screenshot_2025-10-29_18-32-21" src="https://github.com/user-attachments/assets/818e2c0c-0687-4572-a075-64298e8b8dff" />
+<img width="1280" height="1024" alt="Screenshot_2025-10-29_18-32-36" src="https://github.com/user-attachments/assets/1b000112-6b86-4afc-b900-47771347a807" />
+<img width="1280" height="1024" alt="Screenshot_2025-10-29_18-32-49" src="https://github.com/user-attachments/assets/44d55a49-1be3-4ac0-866b-a93aaa0528ec" />
+
+# 5 . RUN PROGRAM ( DASHBOARD PRO ) 
+
+    streamlit run DashboardPro.py
+
 
 
 By Gleaphe 2025 .
